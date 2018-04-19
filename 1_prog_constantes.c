@@ -27,9 +27,14 @@
 /*Definir ciclos con macro*/
 
 #define CICLOFOR(x, y) for(x=0; x < y; x++)
+#define CICLOWHILE(z, j)  while (z < j)
 
-/* Declaración de constantes con cont*/
-/*Se reservan espacios en memoria*/
+
+
+
+
+
+
 
 const float pi=3.1416;
 const float g=9.81;
@@ -87,13 +92,19 @@ int y = 10;
 
 CICLOFOR(x, y)
 {
-printf("\n Hola mundo...\n" );
+printf("Hola mundo...\n" );
 }
 
-
+printf("\n\n");
 
 /*TAREA:Para lunes 16 ciclo while y do while*/
+int z=0, j = 10;
 
+CICLOWHILE(z, j)
+{
+  printf("Hola mundo\n");
+  z+=1;
+}
 
 
 
