@@ -1,6 +1,7 @@
-/*Nicolás Merino Guillermo*/
-/*memo.m10@outlook.es*/
-/*11/04/2018*/
+/*Autor: Nicolás Merino Guillermo                                              */
+/*E-mail: memo.m10@outlook.es                                                  */
+/*Fecha de creación: 11/04/2018                                                */
+/*Fecha de actualización: 12/04/2018                                           */
 /*Elaborar un programa que cuente el número de veces que se repite un número en un arreglo*/
 
 
@@ -35,5 +36,3 @@ else
 }
 return 0;
 }
-
-

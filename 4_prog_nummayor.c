@@ -1,11 +1,11 @@
-/* Autor: Nicolás Merino Guillermo                                         */
-/* E-mail: memo.m10@outlook.es                             */
-/* Fecha de creación: 14/04/2018                                          */
-/* Fecha de actualización: 15/04/2018                                      */
-/* DescripciÃ³n: diseñe un programa que encuentre el número mayor en un arreglo    */
+/* Autor: Nicolás Merino Guillermo                                             */
+/* E-mail: memo.m10@outlook.es                                                 */
+/* Fecha de creación: 14/04/2018                                               */
+/* Fecha de actualización: 15/04/2018                                          */
+/* DescripciÃ³n: diseñe un programa que encuentre el número mayor en un arreglo*/
+
+
 /*              unidimencional de enteros.                                 */
-
-
 /* DeclaraciÃ³n de bibliotecas de cabecera */
 #include <stdio.h>
 

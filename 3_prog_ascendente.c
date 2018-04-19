@@ -1,7 +1,8 @@
-/*Nicolás Merino Guillermo*/
-/*memo.m10@outlook.es*/
-/*11/04/2018*/
-/*Elaborar un programa que ordene los numeros de manera ascendente*/
+/*Autor: Nicolás Merino Guillermo                                              */
+/*E-mail: memo.m10@outlook.es                                                  */
+/*Fecha de creación: 11/04/2018                                                */
+/*Fecha de actualización: 12/04/2018                                           */
+/*Elaborar un programa que ordene los numeros de manera ascendente             */
 
 #include <stdio.h>
  int main()
