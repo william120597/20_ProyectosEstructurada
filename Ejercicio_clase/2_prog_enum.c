@@ -1,3 +1,9 @@
+/*Autor: Nicolás Merino Guillermo                                              */
+/*E-mail: memo.m10@outlook.es                                                  */
+/*Fecha de creación: 18/04/2018                                                */
+/*Fecha de actualización: 18/04/2018                                           */
+/*Descripción: Elabore un programa empleando el "enum"       */
+
 #include <stdio.h>
 
 
@@ -11,7 +17,7 @@ enum FRUTAS{manzana, mango, durazno, pera, uva, pina};
 enum PRECIOAUTO{NUEVO = 10, SEMINUEVO=-5, USADO, INSERVIBLE};
 
 /*Enumeración anónina*/
-enum {PROG, MATEDIS, MATII, TGS, ELECT}var1, var2, var3;
+enum {PROG, MATEDIS, MATII, TGS, ELECT} var1, var2, var3;
 
 int main(void)
 {

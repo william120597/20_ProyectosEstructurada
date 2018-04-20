@@ -2,7 +2,7 @@
 /*E-mail: memo.m10@outlook.es                                                  */
 /*Fecha de creación: 11/04/2018                                                */
 /*Fecha de actualización: 12/04/2018                                           */
-/*Descripción: Elaborar un programa que cuente el número de veces que se repite un número en un arreglo*/
+/*Descripción: Elaborar un programa que muestre la declaración de constantes con #define y const y que muestre en pantalla los valores de las constantes. Así mismo, definir 6 macros para simular las operaciones (suma, resta, multiplicación, división y potencia) he imprimir los valores en pantalla. También se deberán simular los ciclos for, while y do-while*/
 
 #include <stdio.h>
 

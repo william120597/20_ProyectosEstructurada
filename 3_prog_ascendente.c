@@ -2,7 +2,7 @@
 /*E-mail: memo.m10@outlook.es                                                  */
 /*Fecha de creación: 11/04/2018                                                */
 /*Fecha de actualización: 12/04/2018                                           */
-/*Elaborar un programa que ordene los numeros de manera ascendente             */
+/*Programa que ordene un arreglo de números enteros de forma ascendente            */
 
 #include <stdio.h>
  int main()
