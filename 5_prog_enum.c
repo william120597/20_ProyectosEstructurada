@@ -1,7 +1,7 @@
 /*Autor: Nicolás Merino Guillermo                                              */
 /*E-mail: memo.m10@outlook.es                                                  */
 /*Fecha de creación: 18/04/2018                                                */
-/*Fecha de actualización: 18/04/2018                                           */
+/*Fecha de actualización: 22/04/2018                                           */
 /*Descripción: Elabore un programa empleando el "enum"       */
 
 #include <stdio.h>
@@ -37,6 +37,13 @@ for(enum MESES index = EN; index <= DI; index++)
     break;
   }
 }
-printf("\n");
+printf("\n\n");
+
+{
+printf("%d\n", var1);
+printf("%d\n", var2 );
+printf("%d\n", var3 );
+}
+
 return 0;
 }

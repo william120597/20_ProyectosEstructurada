@@ -2,7 +2,7 @@
 /*E-mail: memo.m10@outlook.es                                                  */
 /*Fecha de creación: 19/04/2018                                                */
 /*Fecha de actualización: 20/04/2018                                           */
-/*Elaborar un programa que convierta letras de minúsculas a mayúsculas         */
+/*Elaborar un programa que convierta letras de mayúsculas a minúsculas          */
 
 #include <stdio.h>
 
@@ -35,7 +35,7 @@ printf("\n");
 
   return 0;
 
-/*TAREA (lunes) convertir de minúsculas a mayúsculas*/
 
-/*TAREA: (Lunes) Buscar cuantas veces de repite una letra en un arreglo de char*/
+
+
 }

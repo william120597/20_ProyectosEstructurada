@@ -2,19 +2,30 @@
 /*E-mail: memo.m10@outlook.es                                                  */
 /*Fecha de creación: 11/04/2018                                                */
 /*Fecha de actualización: 12/04/2018                                           */
-/*Descripción: Elabore un programa que imprima en pantalla un arreglo bidimensional de dos filas y tres columnas*/
+/*Programa que permite encontrar las veces que se repite una letra en una palabra .*/
+
 
 #include <stdio.h>
 
-int main(void){
-int matriz[4][4] = { {1,2,3,4} , {5,6,7,8} };
-int filas,columnas;
+int main(void)
+{
+int arreglo[5] = {m,e,m,o};
+int contador;
+int i,j;
 
-for(filas=0;filas<2;filas++){
-for (columnas=0;columnas<4;columnas++){
-printf("%i  ",matriz[filas][columnas]);
+for(i=0;i<5;i++)
+{
+contador=0;
+for(j=0;j<5;j++)
+{
+if (i==arreglo[j])
+contador+=1;
 }
-printf("\n");
+if (contador == 0)
+
+{
+printf("la letra %d se repite %d vez\n\n",i,contador);
 }
+
 return 0;
 }

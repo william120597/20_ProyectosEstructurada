@@ -98,7 +98,7 @@ printf("Hola mundo...\n" );
 
 printf("\n\n");
 
-/*TAREA:Para lunes 16 ciclo while y do while*/
+/*TAREA:Para lunes 16 ciclo  do while*/
 int z=0, j = 10;
 
 CICLOWHILE(z, j)
