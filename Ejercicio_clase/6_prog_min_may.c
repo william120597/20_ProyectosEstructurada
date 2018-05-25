@@ -27,6 +27,7 @@ if(c >= 97 && c <= 122)
 printf("\n");
 for(int i = 0; i < tamanio; i++ )
 
+
 {
 printf("%c", array[i]);
 }
